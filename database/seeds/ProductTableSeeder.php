@@ -76,7 +76,7 @@ class ProductTableSeeder extends Seeder
 
         DB::table('settings')->insert([
             // Uncomment  and edit this section for entering value to settings table.
-            /*
+            
             [
                 'pacakge'   => 'Product',
                 'module'    => 'Product',
@@ -88,7 +88,7 @@ class ProductTableSeeder extends Seeder
                 'type'      => 'Default',
                 'control'   => 'text',
             ],
-            */
+         
         ]);
     }
 }
