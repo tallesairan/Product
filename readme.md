@@ -4,7 +4,7 @@ Lavalite package that provides product management facility for the cms.
 
 Begin by installing this package through Composer. Edit your project's `composer.json` file to require `figmax/product`.
 
-    "figmax/product": "dev-master"
+    "tallesairan/product": "dev-master"
 
 Next, update Composer from the Terminal:
 
